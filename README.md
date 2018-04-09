@@ -4,7 +4,12 @@ Ypnose's [envypn](https://ypnose.fr/p/pj/#envypn) bitmap font, patched with Powe
 If there are any additional glyphs you would like to see included in this font, open an issue, and I'll look into it :)
 
 ### Screenshots
-uh gimme a moment, gotta do the git thingymabobber first
+**7x13 (small)**
+
+![7x13](https://raw.githubusercontent.com/TheReturningVoid/envypn-powerline/master/screenshots/7x13.png)
+
+**7x13 (large)**
+![7x15](https://raw.githubusercontent.com/TheReturningVoid/envypn-powerline/master/screenshots/7x15.png)
 
 ### Credits
 - Ypnose: For the original envypn font
