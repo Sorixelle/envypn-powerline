@@ -16,7 +16,8 @@ If there are any additional glyphs you would like to see included in this font, 
 
 ![7x13](https://raw.githubusercontent.com/TheReturningVoid/envypn-powerline/master/screenshots/7x13.png)
 
-**7x13 (large)**
+**7x15 (large)**
+
 ![7x15](https://raw.githubusercontent.com/TheReturningVoid/envypn-powerline/master/screenshots/7x15.png)
 
 ### Credits
