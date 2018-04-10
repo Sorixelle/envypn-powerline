@@ -1,5 +1,13 @@
 # envypn-powerline
-Ypnose's [envypn](https://ypnose.fr/p/pj/#envypn) bitmap font, patched with Powerline glyphs.
+Ypnose's [envypn](https://ypnose.fr/p/pj/#envypn) bitmap font, patched with Powerline glyphs + other Unicode characters.
+
+Originally this was only Powerline additions, but those existed already, and I was using an older version. I'm still keeping this around, just for the other Unicode glyphs that the font doesn't include.
+
+### Supported characters:
+- All Powerline glyphs
+- Heavy Greek Cross (U+271A) (✚)
+- Heavy Ballot X (U+2718) (✘)
+- Black Circle (U+25CF) (●)
 
 If there are any additional glyphs you would like to see included in this font, open an issue, and I'll look into it :)
 
