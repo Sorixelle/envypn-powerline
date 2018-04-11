@@ -8,6 +8,8 @@ Originally this was only Powerline additions, but those existed already, and I w
 - Heavy Greek Cross (U+271A) (✚)
 - Heavy Ballot X (U+2718) (✘)
 - Black Circle (U+25CF) (●)
+- Heavy Black Curved Upwards and Rightwards Arrow (U+27A6) (➦)
+- Trigram for Heaven (U+2630) (☰)
 
 If there are any additional glyphs you would like to see included in this font, open an issue, and I'll look into it :)
 
