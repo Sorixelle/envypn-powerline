@@ -10,7 +10,7 @@
 - Trigram for Fire (U+2632) (☲)
 - Box Drawings Light Horizontal (U+2500) (─)
 - Black Right-Pointing Double Triangle (U+23E9) (⏩)
-- Black Left-Pointing Double Triangle (U+23EA) (⏪>
+- Black Left-Pointing Double Triangle (U+23EA) (⏪)
 - Black Up-Pointing Double Triangle (U+23EB) (⏫)
 - Black Down-Pointing Double Triangle (U+23EC) (⏬)
 - Black Right-Pointing Double Triangle with Vertical Bar (U+23ED) (⏭)
