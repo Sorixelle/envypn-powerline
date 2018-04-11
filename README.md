@@ -4,7 +4,7 @@ Ypnose's [envypn](https://ypnose.fr/p/pj/#envypn) bitmap font, patched with Powe
 Originally this was only Powerline additions, but those existed already, and I was using an older version. I'm still keeping this around, just for the other Unicode glyphs that the font doesn't include.
 
 ### Supported characters:
-A list of supported characters can be found [here](https://github.com/TheReturningVoid/envypn-powerline/characters.md).
+A list of supported characters can be found [here](https://github.com/TheReturningVoid/envypn-powerline/blob/master/characters.md).
 
 If there are any additional glyphs you would like to see included in this font, open an issue, and I'll look into it :)
 
