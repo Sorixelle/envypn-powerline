@@ -7,3 +7,4 @@
 - Heavy Black Curved Upwards and Rightwards Arrow (U+27A6) (➦)
 - Trigram for Heaven (U+2630) (☰)
 - All triangle characters (U+25B2 - U+25C5) (▲△▴▵▶▷▸▹►▻▼▽▾▿◀◁◂◃◄◅)
+- Trigram for Fire (U+2632) (☲)
