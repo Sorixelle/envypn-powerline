@@ -22,3 +22,4 @@ If there are any additional glyphs you would like to see included in this font, 
 
 ### Credits
 - Ypnose: For the original envypn font
+- /u/Dylan112 - For letting me know their Powerline glyphs (which this repo now currently uses) were already in the latest version of the font
